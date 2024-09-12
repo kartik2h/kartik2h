@@ -1,4 +1,5 @@
 # 💫 About Me:
+My name is Kartik.<br><br>
 🌠 I’m currently working on<br>Building and optimizing backend services using Spring Boot, focusing on improving performance and scalability for enterprise-level applications.<br><br>👥 I’m looking to collaborate on<br>Projects involving full-stack development, particularly with React and Redux on the frontend and Spring Boot for the backend.<br><br>🤝 I’m looking for help with<br>Deepening my knowledge in Redux for better state management in large-scale React applications.<br><br>🌱 I’m currently learning<br>Advanced React concepts such as Redux, middleware, and how to scale React applications with best practices.<br><br>💬 Ask me about<br>Spring Boot, Java development, backend microservices, and deploying applications using Docker and Kubernetes.<br><br>⚡ Fun fact<br>I consider myself a professional napper – I can fall asleep anywhere, anytime, no questions asked.
 
 
